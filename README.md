@@ -54,8 +54,8 @@
 <p align="center">
 
   <a href="https://twitter.com/zakariasassi96"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter%20-blue"></a>
-<a href="https://www.linkedin.com/in/zakaria-sassi-529547aa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zakaria-sassi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/zakariasassi96/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zakariasassi96 -blue?style=flat-square&logo=instagram"></a>
+
+<a href="https://www.instagram.com/zakariasassi96/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zakariasassi96 -blue?style=flat-square&logo=instagram">Zakaria  Sassi</a>
 <a href="mailto:zakaria.sassi1096@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zakaria.sassi1096@gmail.com -blue?style=flat-square&logo=gmail"></a>
 </p>
 
