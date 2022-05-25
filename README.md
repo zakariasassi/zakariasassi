@@ -52,7 +52,7 @@ Software Engineering , Web Developer
 * 🌍  I'm based in Tripoli
 * ✉️  You can contact me at [zakaria.sassi1096@gmail.com](mailto:zakaria.sassi1096@gmail.com)
 * 🧠  I'm learning Laravel
-* 🤝  I'm open to collaborating on i am mobile application devolper , a full stack web devolper, a graphic designer
+* 🤝  I'm open to collaborating on mobile application devolper , a full stack web devolper, a graphic designer
 * ⚡  I have learned graphic design Through training and practicing , it is my hobby. .
 
 <a href="https://www.twitter.com/zakariasassi96" target="_blank" rel="noreferrer"><img
