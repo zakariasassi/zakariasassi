@@ -10,7 +10,8 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-    
+
+    <a href="https://app.daily.dev/zakariasassi"><img src="https://api.daily.dev/devcards/ec3b85e40fbf45b28b0c8db9f66550bc.png?r=70t" width="400" alt="zakaria sassi's Dev Card"/></a>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
