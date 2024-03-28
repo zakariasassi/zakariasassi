@@ -1,15 +1,5 @@
 <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
-<h2> Hey there! I'm Zakaria.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 😎 &nbsp; Web developer, mobile app developer, and user interface designer.
-- 🎓 &nbsp; I studied computer science at the University of Tripoli.
-- 💼 &nbsp; Working as a Software Engineering .
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
     <a href="https://app.daily.dev/zakariasassi"><img src="https://api.daily.dev/devcards/ec3b85e40fbf45b28b0c8db9f66550bc.png?r=70t" width="400" alt="zakaria sassi's Dev Card"/></a>
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -44,16 +34,7 @@
 
 <br/>
 
-Hi 👋 My name is zakaria sassi
-==============================
 
-Software Engineering , Web Developer
-------------------------------------
-
-* 🌍  I'm based in Tripoli
-* ✉️  You can contact me at [zakaria.sassi1096@gmail.com](mailto:zakaria.sassi1096@gmail.com)
-* 🤝  I'm open to collaborating on mobile application devolper , a full stack web devolper, a graphic designer
-* ⚡  I have learned graphic design Through training and practicing , it is my hobby. .
 
 <a href="https://www.twitter.com/zakariasassi96" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/zakariasassi96?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"
@@ -107,12 +88,4 @@ src="https://img.shields.io/twitter/follow/zakariasassi96?logo=twitter&style=for
 <p align="left"> <a href="https://www.behance.com/zekosassi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/zekosassi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/zakariasassi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Zakaria sassi#8445" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/zakariasassi.1096" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/zakariasassi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zakaria-sassi-529547aa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@zakariasassi96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4892345/zakaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zakariasassi96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/zakariasassi"><img src="https://github-readme-stats.vercel.app/api?username=zakariasassi&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="zakariasassi's GitHub stats" /></a>
-
-<a href="http://www.github.com/zakariasassi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariasassi&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="http://www.github.com/zakariasassi"><img src="https://activity-graph.herokuapp.com/graph?username=zakariasassi&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/zakariasassi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariasassi&langs_count=10&title_color=ef4444&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
