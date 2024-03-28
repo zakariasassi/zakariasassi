@@ -1,7 +1,6 @@
 <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 
-    <a href="https://app.daily.dev/zakariasassi"><img src="https://api.daily.dev/devcards/ec3b85e40fbf45b28b0c8db9f66550bc.png?r=70t" width="400" alt="zakaria sassi's Dev Card"/></a>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
